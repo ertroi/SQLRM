@@ -30,7 +30,7 @@ Ao final, o script salva a consulta SQL gerada em um arquivo na pasta `consultas
 
 3. Copie a pasta `dados` para o ambiente do Colab.
 
-4. Ajuste as tabelas desejadas e execute todas as células.
+4. Ajuste as tabelas desejadas e execute todas as células..
 
 ## Executando localmente
 
