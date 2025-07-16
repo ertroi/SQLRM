@@ -1,6 +1,6 @@
 # Geração de Consultas SQL a partir de Tabelas e Relacionamentos do TOTVS RM
 
-## [Versão online](https://vitorgt.github.io/TOTVS-RM-SQL) 
+## [Versão online](https://sql.tstt.net.br) 
 
 ## Introdução
 
@@ -24,9 +24,9 @@ Ao final, o script salva a consulta SQL gerada em um arquivo na pasta `consultas
 
 ## Executando no Google Colab
 
-1. Faça o [download desse repositório](https://github.com/vitorgt/TOTVS-RM-SQL/zipball/master/) no seu computador.
+1. Faça o [download desse repositório] no seu computador.
 
-2. Clique no botão: <a target="_blank" href="https://colab.research.google.com/github/vitorgt/TOTVS-RM-SQL/blob/main/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+2. Clique no botão: <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 3. Copie a pasta `dados` para o ambiente do Colab.
 
@@ -34,7 +34,7 @@ Ao final, o script salva a consulta SQL gerada em um arquivo na pasta `consultas
 
 ## Executando localmente
 
-1. Faça o [download desse repositório](https://github.com/vitorgt/TOTVS-RM-SQL/zipball/master/) no seu computador.
+1. Faça o [download desse repositório] no seu computador.
 
 2. Atente-se aos pré-requisitos abaixo.
 
